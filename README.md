@@ -1,5 +1,3 @@
----
-
 # 🔓 PDF Password Cracker – Streamlit Web App
 
 A powerful and user-friendly **Streamlit-based PDF Password Cracker** that helps you:
